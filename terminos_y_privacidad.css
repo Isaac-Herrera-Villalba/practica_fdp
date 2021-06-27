@@ -1,0 +1,58 @@
+main
+  
+{
+    
+    margin: 0;
+    background: linear-gradient(
+        to bottom right,
+        #15054E,
+        #3d065f 70%,
+        #10054d
+        );
+
+    width: 100vw; /*vw: wiewport length width*/
+    height: 100vh; /*vw: wiewport length height*/
+}
+    
+
+
+
+    header
+   {
+    width: auto;   
+    height: auto;
+    text-align: center;
+    
+      }
+
+    .principal
+      {
+        
+        width: 90vw; 
+        height: 80vh; 
+       
+        
+         }
+
+
+        .caja_1
+        {
+            width: 20cm;
+            height: auto;
+            text-align: ;
+            display: block;
+            padding: 1vw 30vw;
+           
+          }
+
+          .texto
+            {
+                text-align: left;
+                
+               } 
+
+             footer
+             {
+                text-align: center;
+               
+                 }
